@@ -20,12 +20,12 @@ async function main() {
   // List 6 events
   const occasions = [
     {
-      name: "UFC Miami",
+      name: "UFC Auckland",
       cost: tokens(3),
       tickets: 0,
-      date: "May 31",
-      time: "6:00PM EST",
-      location: "Miami-Dade Arena - Miami, FL"
+      date: "Nov 31 2023",
+      time: "6:00PM NZT",
+      location: "Auckland-Spart Arena - Auckland, NZ"
     },
     {
       name: "ETH Tokyo",
